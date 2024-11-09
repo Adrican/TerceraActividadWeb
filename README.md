@@ -1,4 +1,4 @@
-Nuestra Base de Datos tiene como nombre "actividad3" y la tabla "users" se puede crear con la siguiente snetencia SQL desde phpmyadmin.
+Nuestra Base de Datos tiene como nombre "actividad3" y la tabla "users" se puede crear con la siguiente sentencia SQL desde phpmyadmin.
 CREATE TABLE actividad3.users (
   id INT NOT NULL AUTO_INCREMENT,
   username VARCHAR(255) NOT NULL,
